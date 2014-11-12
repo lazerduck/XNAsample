@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>doge.png</Source>
+      <Name>doge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\Content\doge.xnb</Output>
+      <Time>2014-11-09T16:20:57.8876378+00:00</Time>
+    </Item>
+    <Item>
+      <Source>doge_many.png</Source>
+      <Name>doge_many</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\Content\doge_many.xnb</Output>
+      <Time>2014-11-09T17:14:39.8779251+00:00</Time>
+    </Item>
+    <Item>
+      <Source>doge_much.png</Source>
+      <Name>doge_much</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\Content\doge_much.xnb</Output>
+      <Time>2014-11-09T17:14:39.8749249+00:00</Time>
+    </Item>
+    <Item>
+      <Source>doge_such.png</Source>
+      <Name>doge_such</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\Content\doge_such.xnb</Output>
+      <Time>2014-11-09T17:14:39.8729248+00:00</Time>
+    </Item>
+    <Item>
+      <Source>doge_wow.png</Source>
+      <Name>doge_wow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\Content\doge_wow.xnb</Output>
+      <Time>2014-11-09T17:14:42.3860686+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSampleContent\</RootDirectory>
+      <LoggerRootDirectory>A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\</LoggerRootDirectory>
+      <IntermediateDirectory>A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSampleContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>A:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>A:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>A:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>A:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>A:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>A:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>A:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-07T23:43:56.4836105+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

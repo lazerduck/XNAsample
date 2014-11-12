@@ -1,0 +1,2 @@
+a:\users\adam\documents\visual studio 2010\Projects\ComputingSample\ComputingSample\ComputingSampleContent\obj\x86\Debug\ComputingSampleContent.contentprojResolveAssemblyReference.cache
+A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSampleContent\obj\x86\Debug\ComputingSampleContent.contentprojResolveAssemblyReference.cache

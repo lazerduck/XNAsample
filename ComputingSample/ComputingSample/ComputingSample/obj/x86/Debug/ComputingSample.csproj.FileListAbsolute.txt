@@ -1,0 +1,18 @@
+a:\users\adam\documents\visual studio 2010\Projects\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\ComputingSample.exe
+a:\users\adam\documents\visual studio 2010\Projects\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\ComputingSample.pdb
+a:\users\adam\documents\visual studio 2010\Projects\ComputingSample\ComputingSample\ComputingSample\obj\x86\Debug\ComputingSample.csprojResolveAssemblyReference.cache
+a:\users\adam\documents\visual studio 2010\Projects\ComputingSample\ComputingSample\ComputingSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+a:\users\adam\documents\visual studio 2010\Projects\ComputingSample\ComputingSample\ComputingSample\obj\x86\Debug\ComputingSample.exe
+a:\users\adam\documents\visual studio 2010\Projects\ComputingSample\ComputingSample\ComputingSample\obj\x86\Debug\ComputingSample.pdb
+a:\users\adam\documents\visual studio 2010\Projects\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\Content\doge.xnb
+A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\obj\x86\Debug\ComputingSample.csprojResolveAssemblyReference.cache
+A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\obj\x86\Debug\ComputingSample.exe
+A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\Content\doge.xnb
+A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\Content\doge_many.xnb
+A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\Content\doge_much.xnb
+A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\Content\doge_such.xnb
+A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\Content\doge_wow.xnb
+A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\ComputingSample.exe
+A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\bin\x86\Debug\ComputingSample.pdb
+A:\Users\Adam\Desktop\ComputingSample\ComputingSample\ComputingSample\obj\x86\Debug\ComputingSample.pdb
